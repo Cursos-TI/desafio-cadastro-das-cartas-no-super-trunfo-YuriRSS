@@ -95,6 +95,7 @@ int main(){
 
     printf("As duas cartas foram armazenadas no sistema! \n");
 
-    
+    return 0;
+
     
 }
